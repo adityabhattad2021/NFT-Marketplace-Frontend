@@ -1,16 +1,5 @@
 
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-
 # In this project I will:
 1. Home Page:
     1. Shows recently listed NFTs
